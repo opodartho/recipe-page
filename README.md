@@ -19,7 +19,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Live Site URL: [Recipe Page](https://opodartho.github.io/recipe-page)
+- Live Site URL: [Recipe Page](https://opodartho.github.io/recipe-page/src/index.html)
 
 ### Built with
 
